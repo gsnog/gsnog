@@ -5,8 +5,19 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/UFF-Sistemas%20de%20Informa%C3%A7%C3%A3o-blue?style=flat-square">
-  <img src="https://img.shields.io/badge/PagBank-Estagi%C3%A1ria%20Eng%20Software-red?style=flat-square">
+  <img src="https://img.shields.io/badge/UFF-Sistemas%20de%20Informa%C3%A7%C3%A3o-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/PagBank-Estagi%C3%A1ria%20Eng%20Software-red?style=for-the-badge">
+</p>
+
+<p align="center">
+  <a href="https://github.com/giovana-nogueira">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giovana-nogueira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovana-nogueira&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=giovana-nogueira&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -29,13 +40,10 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-### Banco de Dados & Cloud
+### Banco de Dados & Infra
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-### Front End
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
 ---
 
@@ -47,14 +55,13 @@
 > - **To-Do List Pro:** Gestão de estados e filtros avançados.
 
 ### 🏥 Painel de Gestão de Unidades de Saúde
-> Projeto acadêmico para digitalização da inspeção em Unidades Básicas de Saúde (UBS), com controle de pacientes e agentes comunitários.
+> Projeto acadêmico para digitalização da inspeção em Unidades Básicas de Saúde (UBS).
 
 ---
 
 ## 📬 Entre em Contato
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/giovana-nogueira-043369273/)
-- 📧 [E-mail](mailto:seu-email@gmail.com)
 
 ---
 
