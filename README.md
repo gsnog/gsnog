@@ -10,14 +10,14 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/giovana-nogueira">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giovana-nogueira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovana-nogueira&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/gsnog">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gsnog&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsnog&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=giovana-nogueira&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gsnog&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
