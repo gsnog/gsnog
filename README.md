@@ -55,12 +55,12 @@
 
 ### ☕ Trilha de Desafios Spring Boot (CRUDs)
 Série de APIs desenvolvidas para praticar lógica de negócios, verbos HTTP e Streams Java.
+- [🎓 Sistema Acadêmico](https://github.com/gsnog/sistema-academico) - Sistema de gestão estudantil.
 - [📦 Gerenciador de Livros](https://github.com/gsnog/sistema-livros) - CRUD in-memory completo.
 - [✅ To-Do List Pro](https://github.com/gsnog/gerenciador-tarefas) - Gestão de estados e filtros.
 - [🚗 Controle de Frota](https://github.com/gsnog/controle-veiculos) - Filtros avançados com Query Params.
 
 ### 🏛️ Sistemas Acadêmicos e Ferramentas
-- [🎓 Sistema Acadêmico](https://github.com/gsnog/sistema-academico) - Primeiro sistema de gestão estudantil.
 - [🎮 PS2 SMB Server](https://github.com/gsnog/ps2_smb_server) - Configuração de servidor de arquivos para PlayStation 2.
 
 ---
