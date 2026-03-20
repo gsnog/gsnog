@@ -9,15 +9,21 @@
   <img src="https://img.shields.io/badge/PagBank-Estagi%C3%A1ria%20Eng%20Software-red?style=for-the-badge">
 </p>
 
+---
+
+## 📊 Atividade no GitHub
+
 <p align="center">
-  <a href="https://github.com/gsnog">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gsnog&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsnog&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=gsnog&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsnog&layout=compact&langs_count=7&theme=dracula" height="180em" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gsnog&theme=dracula&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/gsnog" alt="Calendário de Contribuições de gsnog" />
 </p>
 
 ---
@@ -38,31 +44,29 @@
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ### Banco de Dados & Infra
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
 ---
 
-## 📚 Projetos em Destaque
+## 📚 Repositórios em Destaque
 
 ### ☕ Trilha de Desafios Spring Boot (CRUDs)
-> Série de APIs desenvolvidas para praticar lógica de negócios, verbos HTTP e Streams Java.
-> - **Gerenciador de Livros:** CRUD in-memory completo.
-> - **To-Do List Pro:** Gestão de estados e filtros avançados.
+Série de APIs desenvolvidas para praticar lógica de negócios, verbos HTTP e Streams Java.
+- [📦 Gerenciador de Livros](https://github.com/gsnog/sistema-livros) - CRUD in-memory completo.
+- [✅ To-Do List Pro](https://github.com/gsnog/gerenciador-tarefas) - Gestão de estados e filtros.
+- [🚗 Controle de Frota](https://github.com/gsnog/controle-veiculos) - Filtros avançados com Query Params.
 
-### 🏥 Painel de Gestão de Unidades de Saúde
-> Projeto acadêmico para digitalização da inspeção em Unidades Básicas de Saúde (UBS).
+### 🏛️ Sistemas Acadêmicos e Ferramentas
+- [🎓 Sistema Acadêmico](https://github.com/gsnog/sistema-academico) - Primeiro sistema de gestão estudantil.
+- [🎮 PS2 SMB Server](https://github.com/gsnog/ps2_smb_server) - Configuração de servidor de arquivos para PlayStation 2.
 
 ---
 
 ## 📬 Entre em Contato
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/giovana-nogueira-043369273/)
-
----
 
 <p align="center">✨ Obrigada por visitar meu perfil! ✨</p>
