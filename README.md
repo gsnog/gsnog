@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou a Giovana! 👋</h1>
 
 <p align="center">
-  <b>Engenheira de Software em formação | Desenvolvedora Back End Java</b>
+  <b>Engenheira de Software | Desenvolvedora Back End Java</b>
 </p>
 
 <p align="center">
