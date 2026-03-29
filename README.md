@@ -27,7 +27,7 @@
 
 - 🎓 Graduanda em **Sistemas de Informação** na Universidade Federal Fluminense (**UFF**)
 - 💼 Atualmente estagiária de **Engenharia de Software no PagBank**
-- 🚀 Membro da empresa júnior de computação da UFF 
+- 🚀 Ex-Membro da empresa júnior de computação da UFF 
 - 🌱 Focada no ecossistema **Java & Spring Boot** para soluções escaláveis no Back End
 
 ---
@@ -55,7 +55,7 @@ Série de APIs desenvolvidas para praticar lógica de negócios, verbos HTTP e S
 - [✅ To-Do List Pro](https://github.com/gsnog/gerenciador-tarefas) - Gestão de estados e filtros.
 - [🚗 Controle de Frota](https://github.com/gsnog/controle-veiculos) - Filtros avançados com Query Params.
 - [📋 API de Gestão de Projetos](https://github.com/gsnog/gestor-de-projetos) - Validações de entrada (`@NotBlank`, `@Size`), Endpoints customizados (`PUT /tarefas/{id}/concluir`), Respostas HTTP padronizadas e Documentação viva com Swagger.
-- 
+
 ### 🏛️ Sistemas Acadêmicos e Ferramentas
 - [🎮 PS2 SMB Server](https://github.com/gsnog/ps2_smb_server) - Configuração de servidor de arquivos para PlayStation 2.
 
