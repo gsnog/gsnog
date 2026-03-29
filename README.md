@@ -14,11 +14,6 @@
 ## 📊 Atividade no GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gsnog&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsnog&layout=compact&langs_count=7&theme=dracula" height="180em" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gsnog&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </p>
 
@@ -63,6 +58,18 @@ Série de APIs desenvolvidas para praticar lógica de negócios, verbos HTTP e S
 - 
 ### 🏛️ Sistemas Acadêmicos e Ferramentas
 - [🎮 PS2 SMB Server](https://github.com/gsnog/ps2_smb_server) - Configuração de servidor de arquivos para PlayStation 2.
+
+---
+
+## 🗺️ Meu Roadmap de Estudos Atual (Fase 3/7)
+
+- [x] **Fase 1: Fundamentos Java** (POO, Exceptions, Collections).
+- [x] **Fase 2: Spring Boot Básico** (Injeção de Dependências, Verbos HTTP).
+- [x] **Fase 3: Arquitetura Relacional** (DTOs, Bean Validation, H2, Relacionamentos `@ManyToOne`, Swagger). -> *📍 Estou consolidando esta fase!*
+- [ ] **Fase 4: Mundo Real** (Docker, PostgreSQL com Flyway/Migrations).
+- [ ] **Fase 5: Bancos Não-Relacionais** (MongoDB).
+- [ ] **Fase 6: Qualidade e Perfomance** (Testes Automatizados com JUnit/Mockito e Cache com Redis).
+- [ ] **Fase 7: Segurança** (Autenticação JWT com Spring Security).
 
 ---
 
