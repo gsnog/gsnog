@@ -67,7 +67,7 @@ Série de APIs desenvolvidas para praticar lógica de negócios, verbos HTTP e S
 
 - [x] **Fase 1: Fundamentos Java** (POO, Exceptions, Collections).
 - [x] **Fase 2: Spring Boot Básico** (Injeção de Dependências, Verbos HTTP).
-- [x] **Fase 3: Arquitetura Relacional** (DTOs, Bean Validation, H2, Relacionamentos `@ManyToOne`, Swagger). -> *📍 Estou consolidando esta fase!*
+- [x] **Fase 3: Arquitetura Relacional** (DTOs, Bean Validation, H2, Relacionamentos `@ManyToOne`, Swagger). 
 - [ ] **Fase 4: Mundo Real** (Docker, PostgreSQL com Flyway/Migrations).
 - [ ] **Fase 5: Bancos Não-Relacionais** (MongoDB).
 - [ ] **Fase 6: Qualidade e Perfomance** (Testes Automatizados com JUnit/Mockito e Cache com Redis).
