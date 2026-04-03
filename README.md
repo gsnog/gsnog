@@ -48,6 +48,10 @@
 
 ## 📚 Repositórios em Destaque
 
+### 🐳 Trilha de Infraestrutura e Bancos Reais (Mundo Corporativo)
+Projetos focados em persistência definitiva, contêineres e versionamento de banco de dados.
+- [💻 API de Inventário de Equipamentos](https://github.com/gsnog/inventario-empresa) - Transição para o mundo real utilizando **Docker, PostgreSQL e Flyway** (Migrations). Garantia de integridade com restrições `UNIQUE` no banco e desativação do `ddl-auto` do Hibernate.
+
 ### ☕ Trilha de Desafios Spring Boot (CRUDs)
 Série de APIs desenvolvidas para praticar lógica de negócios, verbos HTTP e Streams Java.
 - [🎓 Sistema Acadêmico](https://github.com/gsnog/sistema-academico) - Sistema de gestão estudantil.
@@ -63,12 +67,12 @@ Série de APIs desenvolvidas para praticar lógica de negócios, verbos HTTP e S
 
 ---
 
-## 🗺️ Meu Roadmap de Estudos Atual (Fase 3/7)
+## 🗺️ Meu Roadmap de Estudos Atual (Fase 4/7)
 
 - [x] **Fase 1: Fundamentos Java** (POO, Exceptions, Collections).
 - [x] **Fase 2: Spring Boot Básico** (Injeção de Dependências, Verbos HTTP).
 - [x] **Fase 3: Arquitetura Relacional** (DTOs, Bean Validation, H2, Relacionamentos `@ManyToOne`, Swagger). 
-- [ ] **Fase 4: Mundo Real** (Docker, PostgreSQL com Flyway/Migrations).
+- [ ] **Fase 4: Mundo Real e Infraestrutura** (Docker, PostgreSQL com Flyway/Migrations). -> *📍 Estou consolidando esta fase!*
 - [ ] **Fase 5: Bancos Não-Relacionais** (MongoDB).
 - [ ] **Fase 6: Qualidade e Perfomance** (Testes Automatizados com JUnit/Mockito e Cache com Redis).
 - [ ] **Fase 7: Segurança** (Autenticação JWT com Spring Security).
