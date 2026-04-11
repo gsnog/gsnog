@@ -67,15 +67,16 @@ Série de APIs desenvolvidas para praticar lógica de negócios, verbos HTTP e S
 
 ---
 
-## 🗺️ Meu Roadmap de Estudos Atual (Fase 4/7)
+## 🗺️ Meu Roadmap de Estudos Atual (Fase 4/8)
 
 - [x] **Fase 1: Fundamentos Java** (POO, Exceptions, Collections).
 - [x] **Fase 2: Spring Boot Básico** (Injeção de Dependências, Verbos HTTP).
 - [x] **Fase 3: Arquitetura Relacional** (DTOs, Bean Validation, H2, Relacionamentos `@ManyToOne`, Swagger). 
 - [ ] **Fase 4: Mundo Real e Infraestrutura** (Docker, PostgreSQL com Flyway/Migrations). -> *📍 Estou consolidando esta fase!*
 - [ ] **Fase 5: Bancos Não-Relacionais** (MongoDB).
-- [ ] **Fase 6: Qualidade e Perfomance** (Testes Automatizados com JUnit/Mockito e Cache com Redis).
+- [ ] **Fase 6: Qualidade, CI/CD e Versionamento** (Testes Automatizados com JUnit/Mockito e preparo para *GitHub Foundations*).
 - [ ] **Fase 7: Segurança** (Autenticação JWT com Spring Security).
+- [ ] **Fase 8: Deploy e Cloud** (Hospedagem de APIs, Arquitetura em Nuvem e preparo para *AWS Cloud Practitioner*).
 
 ---
 
