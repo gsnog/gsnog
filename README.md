@@ -14,8 +14,8 @@
 ## 📊 Atividade no GitHub
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gsnog&theme=dracula&hide_border=true" alt="GitHub Streak" />
-</p>
+  <img src="https://github.com/gsnog/github-readme-streak-stats" alt="GitHub Streak" />
+  </p>
 
 <p align="center">
   <img src="https://ghchart.rshah.org/gsnog" alt="Calendário de Contribuições de gsnog" />
@@ -37,6 +37,7 @@
 ### Back End & Linguagens
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white)
+![Jakarta EE](https://img.shields.io/badge/-Jakarta_EE-EE0000?style=flat&logo=jakartaee&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
@@ -47,6 +48,10 @@
 ---
 
 ## 📚 Repositórios em Destaque
+
+### ⚙️ Fundamentos e Arquitetura Java Web (Sem Frameworks)
+Projeto desenvolvido para consolidar a base do funcionamento web, roteamento HTTP e comunicação nativa com o banco de dados como trabalho para a disciplina Introdução ao Desenvolvimento Web na Universidade Federal Fluminense.
+- [🐾 Gestão de Clínica Veterinária](https://github.com/gsnog/gestao-clinica-veterinaria) - Sistema web colaborativo construído com a **arquitetura MVC raiz**. Desenvolvido utilizando Java puro (**Jakarta Servlets**), comunicação manual com o banco de dados via **JDBC + PostgreSQL** (Design Pattern DAO) e tráfego seguro de dados entre camadas utilizando **DTOs**.
 
 ### 🐳 Trilha de Infraestrutura e Bancos Reais (Mundo Corporativo)
 Projetos focados em persistência definitiva, contêineres e versionamento de banco de dados.
