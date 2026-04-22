@@ -49,6 +49,10 @@
 
 ## 📚 Repositórios em Destaque
 
+### 🏛️ Trilha de Arquitetura Corporativa e Design Patterns
+Projetos focados em lógicas de negócio complexas, escalabilidade e arquitetura limpa.
+- [💸 Motor de Transferências PIX](https://github.com/gsnog/motor-pix) - Aplicação do padrão **Chain of Responsibility** e princípio **Open/Closed (SOLID)** para esteira de validações financeiras Thread-Safe, processando DTOs com cálculos imutáveis (`BigDecimal`).
+
 ### ⚙️ Fundamentos e Arquitetura Java Web (Sem Frameworks)
 Projeto desenvolvido para consolidar a base do funcionamento web, roteamento HTTP e comunicação nativa com o banco de dados como trabalho para a disciplina Introdução ao Desenvolvimento Web na Universidade Federal Fluminense.
 - [🐾 Gestão de Clínica Veterinária](https://github.com/gsnog/gestao-clinica-veterinaria) - Sistema web colaborativo construído com a **arquitetura MVC raiz**. Desenvolvido utilizando Java puro (**Jakarta Servlets**), comunicação manual com o banco de dados via **JDBC + PostgreSQL** (Design Pattern DAO) e tráfego seguro de dados entre camadas utilizando **DTOs**.
