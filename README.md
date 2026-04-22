@@ -56,6 +56,7 @@ Projeto desenvolvido para consolidar a base do funcionamento web, roteamento HTT
 ### 🐳 Trilha de Infraestrutura e Bancos Reais (Mundo Corporativo)
 Projetos focados em persistência definitiva, contêineres e versionamento de banco de dados.
 - [💻 API de Inventário de Equipamentos](https://github.com/gsnog/inventario-empresa) - Transição para o mundo real utilizando **Docker, PostgreSQL e Flyway** (Migrations). Garantia de integridade com restrições `UNIQUE` no banco e desativação do `ddl-auto` do Hibernate.
+- [🎫 API de Helpdesk Corporativo](https://github.com/gsnog/api-helpdesk) - Foco em mapeamento relacional avançado (`1:N` e Foreign Keys), uso do **Lombok** para *Clean Code* e simulação de contextos de segurança utilizando `@RequestHeader` no Spring.
 
 ### ☕ Trilha de Desafios Spring Boot (CRUDs)
 Série de APIs desenvolvidas para praticar lógica de negócios, verbos HTTP e Streams Java.
