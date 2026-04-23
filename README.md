@@ -61,6 +61,7 @@ Projeto desenvolvido para consolidar a base do funcionamento web, roteamento HTT
 Projetos focados em persistência definitiva, contêineres e versionamento de banco de dados.
 - [💻 API de Inventário de Equipamentos](https://github.com/gsnog/inventario-empresa) - Transição para o mundo real utilizando **Docker, PostgreSQL e Flyway** (Migrations). Garantia de integridade com restrições `UNIQUE` no banco e desativação do `ddl-auto` do Hibernate.
 - [🎫 API de Helpdesk Corporativo](https://github.com/gsnog/api-helpdesk) - Foco em mapeamento relacional avançado (`1:N` e Foreign Keys), uso do **Lombok** para *Clean Code* e simulação de contextos de segurança utilizando `@RequestHeader` no Spring.
+- [🎫 API de Helpdesk Corporativo V2 & Bug Bounty](https://github.com/gsnog/api-helpdesk) - Foco em mapeamento relacional (`1:N`), migrações dinâmicas com **Flyway**, simulação de segurança via `@RequestHeader` e proteção rigorosa de dados financeiros e reversão de falhas utilizando **`@Transactional`** do Spring Boot.
 
 ### ☕ Trilha de Desafios Spring Boot (CRUDs)
 Série de APIs desenvolvidas para praticar lógica de negócios, verbos HTTP e Streams Java.
@@ -82,7 +83,7 @@ Série de APIs desenvolvidas para praticar lógica de negócios, verbos HTTP e S
 - [x] **Fase 1: Fundamentos Java** (POO, Exceptions, Collections).
 - [x] **Fase 2: Spring Boot Básico** (Injeção de Dependências, Verbos HTTP).
 - [x] **Fase 3: Arquitetura Relacional** (DTOs, Bean Validation, H2, Relacionamentos `@ManyToOne`, Swagger). 
-- [ ] **Fase 4: Mundo Real e Infraestrutura** (Docker, PostgreSQL com Flyway/Migrations). -> *📍 Estou consolidando esta fase!*
+- [x] **Fase 4: Mundo Real, Lógica de Negócios e Infra** (PostgreSQL, Flyway, Design Patterns, Headers de Segurança, Lombok e Transações ACID). -> *📍 Fase Dominada!*
 - [ ] **Fase 5: Bancos Não-Relacionais** (MongoDB).
 - [ ] **Fase 6: Qualidade, CI/CD e Versionamento** (Testes Automatizados com JUnit/Mockito e preparo para *GitHub Foundations*).
 - [ ] **Fase 7: Segurança** (Autenticação JWT com Spring Security).
