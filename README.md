@@ -9,10 +9,6 @@
   <img src="https://img.shields.io/badge/PagBank-Software%20Eng%20Intern-red?style=for-the-badge">
 </p>
 
-<p align="center">
-  <a href="#-sobre-mim">🇧🇷 Leia em Português</a>
-</p>
-
 ---
 
 ## 📊 GitHub Activity
@@ -74,7 +70,7 @@ Focus on data persistence, containers, and database versioning.
 - [x] **Phase 2: Basic Spring Boot** (DI, HTTP Verbs).
 - [x] **Phase 3: Relational Architecture** (DTOs, Bean Validation, Relational Mapping).
 - [x] **Phase 4: Business Logic & Infra** (PostgreSQL, Flyway, Design Patterns, ACID Transactions).
-- [ ] **Phase 5: NoSQL Databases** (MongoDB).
+- [x] **Phase 5: NoSQL Databases** (MongoDB).
 - [ ] **Phase 6: Quality & CI/CD** (Unit Testing with JUnit/Mockito & GitHub Foundations).
 - [ ] **Phase 7: Security** (JWT Authentication with Spring Security).
 - [ ] **Phase 8: Cloud** (AWS Cloud Practitioner preparation).
