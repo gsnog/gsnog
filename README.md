@@ -14,10 +14,6 @@
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github.com/gsnog/github-readme-streak-stats" alt="GitHub Streak" />
-</p>
-
-<p align="center">
   <img src="https://ghchart.rshah.org/gsnog" alt="gsnog contribution calendar" />
 </p>
 
