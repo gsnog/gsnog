@@ -74,13 +74,13 @@ Series of APIs developed to practice business logic, HTTP verbs, and Java Stream
 
 ---
 
-## 🗺️ Current Study Roadmap (Phase 4/8)
+## 🗺️ Current Study Roadmap (Phase 6/8)
 
 - [x] **Phase 1: Java Fundamentals** (OOP, Exceptions, Collections).
 - [x] **Phase 2: Basic Spring Boot** (Dependency Injection, HTTP Verbs).
 - [x] **Phase 3: Relational Architecture** (DTOs, Bean Validation, H2, `@ManyToOne` Relationships, Swagger). 
 - [x] **Phase 4: Real World, Business Logic, and Infra** (PostgreSQL, Flyway, Design Patterns, Security Headers, Lombok, and ACID Transactions).
-- [ ] **Phase 5: NoSQL Databases** (MongoDB).
+- [x] **Phase 5: NoSQL Databases** (MongoDB).
 - [ ] **Phase 6: Quality, CI/CD, and Versioning** (Automated Testing with JUnit/Mockito and preparation for *GitHub Foundations*).
 - [ ] **Phase 7: Security** (JWT Authentication with Spring Security).
 - [ ] **Phase 8: Deploy and Cloud** (API Hosting, Cloud Architecture, and preparation for *AWS Cloud Practitioner*).
