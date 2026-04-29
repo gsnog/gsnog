@@ -178,7 +178,7 @@ Série de APIs desenvolvidas para praticar lógica de negócios, verbos HTTP e S
 
 ---
 
-## 🗺️ Meu Roadmap de Estudos Atual (Fase 4/8)
+## 🗺️ Meu Roadmap de Estudos Atual (Fase 6/8)
 
 - [x] **Fase 1: Fundamentos Java** (POO, Exceptions, Collections).
 - [x] **Fase 2: Spring Boot Básico** (Injeção de Dependências, Verbos HTTP).
