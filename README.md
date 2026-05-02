@@ -37,13 +37,20 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
-### Database & Infra
+### Database, Infra & Quality
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![JUnit5](https://img.shields.io/badge/-JUnit5-25A162?style=flat&logo=junit5&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
 ---
 
 ## 📚 Featured Repositories
+
+### 🍃 High Performance & NoSQL Data
+Projects focused on schema flexibility, document-oriented modeling, and robust testing.
+- [🛒 Dynamic E-commerce Catalog & Cart](https://github.com/gsnog/catalogo-nosql) - REST API using **MongoDB**. Explores *Schema-less* concepts via `Map` and persistence optimization using *Embedded Documents* (O(1) read time). Architecture shielded by **JUnit 5, Mockito (TDD)**, and Continuous Integration pipeline via **GitHub Actions**.
 
 ### 🏛️ Enterprise Architecture and Design Patterns
 Projects focused on complex business logic, scalability, and clean architecture.
@@ -74,15 +81,15 @@ Series of APIs developed to practice business logic, HTTP verbs, and Java Stream
 
 ---
 
-## 🗺️ Current Study Roadmap (Phase 6/8)
+## 🗺️ Current Study Roadmap (Phase 7/8)
 
 - [x] **Phase 1: Java Fundamentals** (OOP, Exceptions, Collections).
 - [x] **Phase 2: Basic Spring Boot** (Dependency Injection, HTTP Verbs).
 - [x] **Phase 3: Relational Architecture** (DTOs, Bean Validation, H2, `@ManyToOne` Relationships, Swagger). 
 - [x] **Phase 4: Real World, Business Logic, and Infra** (PostgreSQL, Flyway, Design Patterns, Security Headers, Lombok, and ACID Transactions).
 - [x] **Phase 5: NoSQL Databases** (MongoDB).
-- [ ] **Phase 6: Quality, CI/CD, and Versioning** (Automated Testing with JUnit/Mockito and preparation for *GitHub Foundations*).
-- [ ] **Phase 7: Security** (JWT Authentication with Spring Security).
+- [x] **Phase 6: Quality, CI/CD, and Versioning** (Automated Testing with JUnit/Mockito and preparation for *GitHub Foundations*).
+- [ ] **Phase 7: Security** (JWT Authentication with Spring Security). -> *📍 Next Target!*
 - [ ] **Phase 8: Deploy and Cloud** (API Hosting, Cloud Architecture, and preparation for *AWS Cloud Practitioner*).
 
 ---
@@ -141,13 +148,20 @@ Series of APIs developed to practice business logic, HTTP verbs, and Java Stream
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
-### Banco de Dados & Infra
+### Banco de Dados, Infra & Qualidade
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![JUnit5](https://img.shields.io/badge/-JUnit5-25A162?style=flat&logo=junit5&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
 ---
 
 ## 📚 Repositórios em Destaque
+
+### 🍃 Trilha de Alta Performance e NoSQL
+Projetos focados em flexibilidade de schema, modelagem orientada a documentos e testes robustos.
+- [🛒 Catálogo e Carrinho Dinâmico](https://github.com/gsnog/catalogo-nosql) - API REST utilizando **MongoDB**. Explora o conceito de *Schema-less* via `Map` e otimiza a persistência usando *Embedded Documents* (leitura O(1)). Arquitetura blindada por **JUnit 5, Mockito (TDD)** e pipeline de Integração Contínua via **GitHub Actions**.
 
 ### 🏛️ Trilha de Arquitetura Corporativa e Design Patterns
 Projetos focados em lógicas de negócio complexas, escalabilidade e arquitetura limpa.
@@ -178,15 +192,15 @@ Série de APIs desenvolvidas para praticar lógica de negócios, verbos HTTP e S
 
 ---
 
-## 🗺️ Meu Roadmap de Estudos Atual (Fase 6/8)
+## 🗺️ Meu Roadmap de Estudos Atual (Fase 7/8)
 
 - [x] **Fase 1: Fundamentos Java** (POO, Exceptions, Collections).
 - [x] **Fase 2: Spring Boot Básico** (Injeção de Dependências, Verbos HTTP).
 - [x] **Fase 3: Arquitetura Relacional** (DTOs, Bean Validation, H2, Relacionamentos `@ManyToOne`, Swagger). 
 - [x] **Fase 4: Mundo Real, Lógica de Negócios e Infra** (PostgreSQL, Flyway, Design Patterns, Headers de Segurança, Lombok e Transações ACID).
 - [x] **Fase 5: Bancos Não-Relacionais** (MongoDB).
-- [ ] **Fase 6: Qualidade, CI/CD e Versionamento** (Testes Automatizados com JUnit/Mockito e preparo para *GitHub Foundations*).
-- [ ] **Fase 7: Segurança** (Autenticação JWT com Spring Security).
+- [x] **Fase 6: Qualidade, CI/CD e Versionamento** (Testes Automatizados com JUnit/Mockito e preparo para *GitHub Foundations*).
+- [ ] **Fase 7: Segurança** (Autenticação JWT com Spring Security). -> *📍 Próximo Alvo!*
 - [ ] **Fase 8: Deploy e Cloud** (Hospedagem de APIs, Arquitetura em Nuvem e preparo para *AWS Cloud Practitioner*).
 
 ---
