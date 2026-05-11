@@ -89,7 +89,7 @@ Series of APIs developed to practice business logic, HTTP verbs, and Java Stream
 - [x] **Phase 4: Real World, Business Logic, and Infra** (PostgreSQL, Flyway, Design Patterns, Security Headers, Lombok, and ACID Transactions).
 - [x] **Phase 5: NoSQL Databases** (MongoDB).
 - [x] **Phase 6: Quality, CI/CD, and Versioning** (Automated Testing with JUnit/Mockito and preparation for *GitHub Copilot Foundations*).
-- [ ] **Phase 7: Security** (JWT Authentication with Spring Security). -> *📍 Next Target!*
+- [x] **Phase 7: Security** (JWT Authentication with Spring Security). -> *📍 Next Target!*
 - [ ] **Phase 8: Deploy and Cloud** (API Hosting, Cloud Architecture, and preparation for *AWS Cloud Practitioner*).
 
 ---
@@ -199,8 +199,8 @@ Série de APIs desenvolvidas para praticar lógica de negócios, verbos HTTP e S
 - [x] **Fase 3: Arquitetura Relacional** (DTOs, Bean Validation, H2, Relacionamentos `@ManyToOne`, Swagger). 
 - [x] **Fase 4: Mundo Real, Lógica de Negócios e Infra** (PostgreSQL, Flyway, Design Patterns, Headers de Segurança, Lombok e Transações ACID).
 - [x] **Fase 5: Bancos Não-Relacionais** (MongoDB).
-- [x] **Fase 6: Qualidade, CI/CD e Versionamento** (Testes Automatizados com JUnit/Mockito e preparo para *GitHub Foundations*).
-- [ ] **Fase 7: Segurança** (Autenticação JWT com Spring Security). -> *📍 Próximo Alvo!*
+- [x] **Fase 6: Qualidade, CI/CD e Versionamento** (Testes Automatizados com JUnit/Mockito e preparo para *GitHub Copilot Foundations*).
+- [x] **Fase 7: Segurança** (Autenticação JWT com Spring Security). -> *📍 Próximo Alvo!*
 - [ ] **Fase 8: Deploy e Cloud** (Hospedagem de APIs, Arquitetura em Nuvem e preparo para *AWS Cloud Practitioner*).
 
 ---
