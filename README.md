@@ -88,7 +88,7 @@ Series of APIs developed to practice business logic, HTTP verbs, and Java Stream
 - [x] **Phase 3: Relational Architecture** (DTOs, Bean Validation, H2, `@ManyToOne` Relationships, Swagger). 
 - [x] **Phase 4: Real World, Business Logic, and Infra** (PostgreSQL, Flyway, Design Patterns, Security Headers, Lombok, and ACID Transactions).
 - [x] **Phase 5: NoSQL Databases** (MongoDB).
-- [x] **Phase 6: Quality, CI/CD, and Versioning** (Automated Testing with JUnit/Mockito and preparation for *GitHub Foundations*).
+- [x] **Phase 6: Quality, CI/CD, and Versioning** (Automated Testing with JUnit/Mockito and preparation for *GitHub Copilot Foundations*).
 - [ ] **Phase 7: Security** (JWT Authentication with Spring Security). -> *📍 Next Target!*
 - [ ] **Phase 8: Deploy and Cloud** (API Hosting, Cloud Architecture, and preparation for *AWS Cloud Practitioner*).
 
