@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/UFF-Information%20Systems-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/PagBank-Software%20Eng%20Intern-red?style=for-the-badge">
+  <img src="https://img.shields.io/badge/PagBank-Software%20Eng%20-red?style=for-the-badge">
 </p>
 
 ---
